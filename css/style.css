@@ -22,6 +22,9 @@
 #Search{
 	margin-bottom: 0.2rem
 }
+button a{
+	color: white;
+}
 .mylist{
 	flex-direction: row;
 }
